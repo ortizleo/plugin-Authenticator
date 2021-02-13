@@ -1,5 +1,5 @@
 {
-  "name": "syspass/plugin-authenticator",
+  "name": "ortizleo/plugin-authenticator",
   "type": "syspass-plugin",
   "description": "2FA authentication plugin for sysPass based on TOTP algorithm (RFC 6238)",
   "homepage": "https://syspass.org",
